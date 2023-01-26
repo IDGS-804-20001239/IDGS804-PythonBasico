@@ -18,5 +18,6 @@ nuevoSueldo = float(sueldo)
 
 print(nuevoSueldo)
 
+# Cambiar a String
 edad =120
 print(len(str(edad)))
